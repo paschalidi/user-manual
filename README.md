@@ -54,8 +54,7 @@ Overall, I like more communication rather than less, especially now that most of
 * **Motivation**
   * I want to believe that I am a good in keeping myself motivated. What might break my motivational castle is an environment in which people are oparating under fear, shame or guilt.  
 * **Agreements**
-  * I personally try to keep my agreements. Which means, I also appreciate when people do the same. This of course can't always be the case but I try keeping a good record.
-  * If you can't keep an agreement we made that is fine, just please communicate it with me so that I manage my expectations.
+  * I personally try to keep my agreements. Which means, I also appreciate when people do the same. This of course can't always be the case but I try keeping a good record. Know that, If I wont be able to keep an agreement I will communicate it with you beforehands.
 
 - **Ownership**
   - I appreciate when people work with a sense of ownership. I am enjoying doing the same.
