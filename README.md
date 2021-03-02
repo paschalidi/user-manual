@@ -11,7 +11,7 @@ Overall, I like more communication rather than less, especially now that most of
 * **Written vs verbal** 
   *  Personally, I am in favour of a quick in-person sync to resolve something versus a long mail/thread exchange. However I might be clearer in writing than in person. In person, I may talk through my thoughts out loud, which can sometimes feel rambly or sound confusing. If my point is not absolutely clear, please ask me to clarify!
 
-* **Emails**
+* **Emails** - WIP
   - I will read every email I get in a day but I don’t respond just so you know I read it—I’ll only respond if you ask me something directly or I have a question. Thus, assume I did read the email within 18 hours, but if you think I owe you a response please resend or ping me and I won’t be offended.
   - I *love* fyi emails when you send me something you saw, a customer anecdote, an article, some data, or something someone on your team did and if you write fyi in the subject or in the fwd I’ll know it’s for my information but *not* requiring response or urgent reading and I’ll do the same for you. FYI = no response required.
 * **Chat/ping**
