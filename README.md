@@ -33,7 +33,7 @@ Overall, I like more communication rather than less, especially now that most of
 
   Please let me know if I’m doing poorly on any of these attributes. I’ll return the favor!
 
-* **Debates** 
+* **Debates** - WIP
 
   Sometimes having conficting conversations is nessesary to get the best of an idea or concept. Now having said that, I am not a huge fun of drama and I think we can have constructive conversations without [having parties feeling hurt in the end]
 
