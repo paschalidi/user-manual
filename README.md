@@ -41,7 +41,7 @@ Overall, I like more communication rather than less, especially now that most of
 
   I like a good laugh and to have fun with the people I work with. You will also find that, I enjoy hanging out and get to know people personally. Even though I respsect people who try to separate personal and professional life, some of the best colleuges I had are now good friends outside of work.
 
-- **Helping out ** 
+- **Helping out** 
 
   I like to help people whenever I can. So, if you think I can do anything for you, let me know. I have helped countless times people move flats. It is a good exercise and I honestly enjoy it.
 
@@ -72,7 +72,7 @@ WIP: I will follow the teams conventions but sometimes I take time and suggest w
 
   I am proud of my work (most of the time) and have a high standard for myself. So, I will try my best to deliver a good quality. In return, I’d expect the same. If you are overwhelmed with other things, let me know and we can work it out together.
 
-* **I’m big on work/life balance.**
+* **I’m big on work/life balance**
 
   Most folks work between about 8am (at the earliest) to 6pm (at the latest), and unless there’s an emergency, I don’t expect to communicate with you outside of these hours with respect to your local time. I try not to respond to e-mails or slack during off-hours and **under no circumstances expect you to, unless it’s an emergency.**
 
