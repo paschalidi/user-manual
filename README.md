@@ -65,7 +65,7 @@ Overall, I like more communication rather than less, especially now that most of
 
 ### Lernings
 
-I value learnings either it comes in a form of technical knowledge or in any other form. I spent time reading books. If you got any good suggestions would be keen to hear it! Also last yeard I have been spening a lot of my time learning and doing the devops work. So please shout out if there is anything I can help you with in this realm, would be more than keen to do so!
+I value learnings either it comes in a form of technical knowledge or in any other form. Last year I have been spening a lot of my time learning and doing some DevOps work. So please shout out if there is anything DevOps related you think I could help out with, would be more than keen to do so! Also I spent some time reading books, so please if you have any good suggestions I am happy to chat about that! 
 
 ### The end
 
