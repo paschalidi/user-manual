@@ -17,7 +17,7 @@ Overall, I like more communication rather than less, especially now that most of
 * **Chat/ping**
   - If it’s urgent/impt/timely or super short feel free to ping any time, even when I am “away.”
   - Short questions on ping are fine but I might be inconsistent in response times since I am often in meetings.
-  - If it’s a long topic and not time sensitive, perhaps we can have a quick call. 
+  - If it’s a long topic and not time sensitive, perhaps we can jump into a quick call. 
 
 * **Feedback**
 
