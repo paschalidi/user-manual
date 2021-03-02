@@ -43,7 +43,7 @@ Overall, I like more communication rather than less, especially now that most of
 
 - **Helping out** 
 
-  I like to help people whenever I can. So, if you think I can do anything for you, let me know. I have helped countless times people move flats. It is a good exercise and I honestly enjoy it.
+  I like to help people whenever I can. So, if you think I can do anything for you, let me know. It can be work related or even not! For example, I have helped countless times people move flats. It is a good exercise and I honestly think is good fun.
 
 ### VALUES
 
