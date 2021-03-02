@@ -1,6 +1,6 @@
-# Working with Christos, a fellow Web developer
+# Working with Christos, a fellow Web developer :spider_web: :man_technologist:
 
-Hey everyone :wave:, I’m really excited to be working with each of you and your teams. Here is a doc with few up-front things about myself and my working style that I hope some of you find helpful.
+Hey everyone :wave:, I’m really excited to be working with each of you and your teams. Here is a doc with few up-front things about my working style, unique values and growth areas. I hope some of you find helpful!
 
 ## I’m here to help and support Sesame with frontend development
 
@@ -8,13 +8,17 @@ Hey everyone :wave:, I’m really excited to be working with each of you and you
 
 Overall, I like more communication rather than less, especially now that most of us are remote.
 
-* **Written vs verbal** 
+* **Written vs verbal** :memo: :speech_balloon:
+
   *  Personally, I am in favour of a quick in-person sync to resolve something versus a long mail/thread exchange. However I might be clearer in writing than in person. In person, I may talk through my thoughts out loud, which can sometimes feel rambly or sound confusing. If my point is not absolutely clear, please ask me to clarify!
 
-* **Emails** - WIP
+* **Emails ** - WIP
+
   - I will read every email I get in a day but I don’t respond just so you know I read it—I’ll only respond if you ask me something directly or I have a question. Thus, assume I did read the email within 18 hours, but if you think I owe you a response please resend or ping me and I won’t be offended.
   - I *love* fyi emails when you send me something you saw, a customer anecdote, an article, some data, or something someone on your team did and if you write fyi in the subject or in the fwd I’ll know it’s for my information but *not* requiring response or urgent reading and I’ll do the same for you. FYI = no response required.
+
 * **Chat/ping**
+
   - If it’s urgent/impt/timely or super short feel free to ping any time, even when I am “away.”
   - Short questions on ping are fine but I might be inconsistent in response times since I am often in meetings.
   - If it’s a long topic and not time sensitive, perhaps we can jump into a quick call. 
@@ -45,37 +49,22 @@ Overall, I like more communication rather than less, especially now that most of
 
   I like to help people whenever I can. So, if you think I can do anything for you, let me know. It can be work related or even not! For example, I have helped countless times people move flats. It is a good exercise and I honestly think is good fun.
 
-### VALUES
+### Likes and dislikes
 
-- **Team values** 
+* **Motivation**
+  * I want to believe that I am a good in keeping myself motivated. What might break my motivational castle is an environment in which people are oparating under fear, shame or guilt.  
+* **Agreements**
+  * I personally try to keep my agreements. Which means, I also appreciate when people do the same. This of course can't always be the case but I try keeping a good record.
+  * If you can't keep an agreement we made that is fine, just please communicate it with me so that I manage my expectations.
 
-  I'll put the team's interests over my own interest. Even that means working extra hours to cover for teammates, doing boring works, etc. That's fine as long as the team succeeds.
+- **Ownership**
+  - I appreciate when people work with a sense of ownership. I am enjoying doing the same.
+  - I prefer doing quality work than fast half finished work. That said, I undestand that there might be expeptions in this rule, however for me personally the deafult would be quality on the work. Please shout out if you see me doing the oposite!
+- **Transparency**
+  * I love when people and organisations have a culture that encourages transparency. 
 
-### DEVELOPMENT STYLE
+### Lernings
 
-WIP: I will follow the teams conventions but sometimes I take time and suggest what _I_ would consider as "imrpovements".
-
-* **Process and Software Development**
-
-  I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked with and without Agile, with and without a form of Scrum. At the end of the day, these are my values:
-
-  * I value transparency about what’s happened, what’s happening, and what’s going to happen.
-  * I value speed, including proactive efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
-  * I value learning, and know that training up on a tech stack may not always be the fastest route to production.
-  * I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
-
-* **Relationships**
-
-  I endeavor to have a great working relationship with you, and I would encourage you to have great working relationships with your peers and business partners (in the office and/or on your team), as well as other folks in other offices to get a sense of how things work outside of our team. I’m happy to make introductions for you or provide networking suggestions to help you do that.
-
-* **Work quality**
-
-  I am proud of my work (most of the time) and have a high standard for myself. So, I will try my best to deliver a good quality. In return, I’d expect the same. If you are overwhelmed with other things, let me know and we can work it out together.
-
-* **I’m big on work/life balance**
-
-  Most folks work between about 8am (at the earliest) to 6pm (at the latest), and unless there’s an emergency, I don’t expect to communicate with you outside of these hours with respect to your local time. I try not to respond to e-mails or slack during off-hours and **under no circumstances expect you to, unless it’s an emergency.**
-
-
+I value learnings either it comes to technical stuff or not. I spent the last learning a lot about the devops universe. So please shout out if there is anything I can help you with in this realm. Would be more than keen to do so!
 
 If you read this far, you care! I thank you. Why don’t you shoot me an email? Coffee/beer are on me!
