@@ -1,6 +1,6 @@
 # Working with Christos, a fellow Web developer
 
-Hey everyone, I’m really excited to be working with each of you and your teams. Here is a doc with few up-front things about myself and my working style that I hope some of you find helpful.
+Hey everyone :wave:, I’m really excited to be working with each of you and your teams. Here is a doc with few up-front things about myself and my working style that I hope some of you find helpful.
 
 ## I’m here to help and support Sesame with frontend development
 
