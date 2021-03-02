@@ -68,4 +68,4 @@ Overall, I like more communication rather than less, especially now that most of
 I value learnings either it comes to technical stuff or not. I spent the last learning a lot about the devops universe. So please shout out if there is anything I can help you with in this realm. Would be more than keen to do so!
 
 ### The end
-If you read this far, you care! I thank you. Why don’t you shoot me an email? Coffee/beer are on me!
+If you read this far, you care! I thank you. Why don’t you shoot me an message? Would be happy to get to know more of the Sesame group :)
