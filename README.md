@@ -61,11 +61,7 @@ Overall, I like more communication rather than less, especially now that most of
 - **Ownership**
 
   - I appreciate when people work with a sense of ownership. I am enjoying doing the same.
-  - I prefer doing quality work than fast half finished work. That said, undestand that there might be expeptions in this rule, however for me personally the deafult would be quality. Please shout out if you see me doing the oposite!
-
-- **Transparency**
-
-  I love when people and organisations have a culture that encourages transparency. 
+  - I prefer doing quality work than fast and as a result half finished work. That said, undestand that there might be expeptions in this rule, however for me personally the deafult would be quality. Please shout out if you see me doing the oposite!
 
 ### Lernings
 
