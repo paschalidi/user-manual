@@ -60,7 +60,7 @@ Overall, I like more communication rather than less, especially now that most of
   * Having very limited autonomy. I believe that people closest to the problem should make decisions. Micromanagement is also a trigger.
   * Not having learned anything new for a loooong time.
 
-- **Agreements **:handshake:
+- **Agreements** :handshake:
 
   * I personally try to keep my agreements and I also appreciate when people do the same. Of course keeping agreements cannot *always* be the case, but I try keeping a good record. When it comes to my attention that I cannot keep an agreement I will re-negotiate it with you.
   * Please don’t push me to commit into something immediately. I need time to process new information. I commit deliberately. If you want me to commit during a meeting, send me data beforehand.
